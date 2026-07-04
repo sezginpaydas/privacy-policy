@@ -23,6 +23,11 @@ We use Google AdMob to serve ads. AdMob uses device identifiers to serve persona
 
 Shape Splitter is not directed to children under 13. We do not knowingly collect personal information from children.
 
+
 ## Contact Us
+
+Users may request to change their username or delete their leaderboard data by contacting us at:
+
+studiobauminfo@gmail.com
 
 If you have any questions, contact us at: studiobauminfo@gmail.com
